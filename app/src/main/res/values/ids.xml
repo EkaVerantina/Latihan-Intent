@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_move_activity_data" type="id">move_activity_data</item>
+    <item name="btn_move_activity_object" type="id">move_activity_object</item>
+    <item name="btn_dial_number" type=  "id">dial_number</item>
+</resources>
